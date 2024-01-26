@@ -1,6 +1,6 @@
 # locationPointer
 
-This library is playground on the Google map APIs.
+This library serves as a playground for utilizing Google Maps APIs.
 
 # How to run
 ```
